@@ -1,0 +1,6 @@
+aiohttp
+pydantic
+numpy
+scikit-learn
+pytest
+pytest-asyncio
